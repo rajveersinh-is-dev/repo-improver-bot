@@ -557,7 +557,7 @@
   },
   "erdos-problem-536-lcm-sets": {
     "description": "Investigation of Erd\u0151s Problem #536: Sets with no three distinct elements having equal pairwise LCMs",
-    "domain": "systems_compiler",
+    "domain": "math_constant_oeis",
     "improvements_count": 1,
     "language": "Python",
     "last_improved_at": "2026-10-12T15:51:24.117588+00:00",
