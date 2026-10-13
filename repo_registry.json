@@ -381,7 +381,7 @@
   },
   "bollobas-leader-subsequence-sums": {
     "description": "Investigation of Bollobas-Leader conjecture on few subsequence sums in Z_n x Z_n; proves t=0 case",
-    "domain": "systems_compiler",
+    "domain": "general_python",
     "improvements_count": 1,
     "language": "Python",
     "last_improved_at": "2026-10-13T16:14:59.607044+00:00",
@@ -641,6 +641,24 @@
       "hygiene"
     ]
   },
+  "k-regular-partition-log-concavity": {
+    "description": "Resolution and structural analysis of the Heim-Neuhauser conjecture on the log-concavity threshold of k-regular partitions",
+    "domain": "general_python",
+    "improvements_count": 1,
+    "language": "Python",
+    "last_improved_at": "2026-10-13T21:24:27.934268+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/k-regular-partition-log-concavity/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (9 files)",
+        "timestamp": "2026-10-13T21:24:27.934268+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
+  },
   "mathrepl": {
     "description": "",
     "domain": "general_python",
@@ -815,6 +833,24 @@
         "stage": "hygiene",
         "summary": "chore: repository modernization and quality upgrades (11 files)",
         "timestamp": "2026-10-05T11:36:17.169091+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
+  },
+  "unit-distances-in-convex-position": {
+    "description": "Rigorous structural investigation of the Erdos-Moser problem: unit distances among vertices of a convex polygon",
+    "domain": "general_python",
+    "improvements_count": 1,
+    "language": "Python",
+    "last_improved_at": "2026-10-13T21:25:39.418295+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/unit-distances-in-convex-position/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (8 files)",
+        "timestamp": "2026-10-13T21:25:39.418295+00:00"
       }
     ],
     "stages_completed": [
