@@ -536,19 +536,26 @@
   "edge-disjoint-triangle-packings": {
     "description": "Edge-disjoint non-crossing triangle packings of planar point sets: a convex barrier and a reduction to subcubic trees",
     "domain": "physics_simulation_crypto",
-    "improvements_count": 1,
+    "improvements_count": 2,
     "language": "Python",
-    "last_improved_at": "2026-10-05T22:50:09.608497+00:00",
+    "last_improved_at": "2026-10-16T07:25:55.234348+00:00",
     "pr_history": [
       {
         "pr_url": "https://github.com/rajveersinh-is-dev/edge-disjoint-triangle-packings/pull/1",
         "stage": "hygiene",
         "summary": "chore: repository modernization and quality upgrades (12 files)",
         "timestamp": "2026-10-05T22:50:09.608497+00:00"
+      },
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/edge-disjoint-triangle-packings/pull/2",
+        "stage": "tests",
+        "summary": "test: add verified unit test suite for edge-disjoint-triangle-packings (1 files)",
+        "timestamp": "2026-10-16T07:25:55.234348+00:00"
       }
     ],
     "stages_completed": [
-      "hygiene"
+      "hygiene",
+      "tests"
     ]
   },
   "edge-disjoint-triangulations": {
