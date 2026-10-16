@@ -457,19 +457,26 @@
   "convex-thrackle-census": {
     "description": "A census of convex thrackles: residue bound, wedge lemma, and the exact count 2^(n-1)-n of maximal thrackles",
     "domain": "general_python",
-    "improvements_count": 1,
+    "improvements_count": 2,
     "language": "Python",
-    "last_improved_at": "2026-10-06T06:39:11.953731+00:00",
+    "last_improved_at": "2026-10-16T18:16:28.513249+00:00",
     "pr_history": [
       {
         "pr_url": "https://github.com/rajveersinh-is-dev/convex-thrackle-census/pull/1",
         "stage": "hygiene",
         "summary": "chore: repository modernization and quality upgrades (10 files)",
         "timestamp": "2026-10-06T06:39:11.953731+00:00"
+      },
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/convex-thrackle-census/pull/2",
+        "stage": "tests",
+        "summary": "test: add verified unit test suite for convex-thrackle-census (1 files)",
+        "timestamp": "2026-10-16T18:16:28.513249+00:00"
       }
     ],
     "stages_completed": [
-      "hygiene"
+      "hygiene",
+      "tests"
     ]
   },
   "cycle-spectra-connectivity": {
