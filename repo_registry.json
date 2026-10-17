@@ -349,12 +349,21 @@
   },
   "anti-ramsey-disjoint-copies-investigation": {
     "description": "Autonomous investigation of Gorgol-Gorlich Conjecture 3.2 (anti-Ramsey numbers for disjoint copies): proofs, exact CP-SAT experiments, hostile audits. Falsified small-m regime; eventual-exactness threshold improved 69 -> 29 (pending audit).",
-    "domain": "general_python",
-    "improvements_count": 0,
+    "domain": "physics_simulation_crypto",
+    "improvements_count": 1,
     "language": "Python",
-    "last_improved_at": null,
-    "pr_history": [],
-    "stages_completed": []
+    "last_improved_at": "2026-10-17T22:33:22.040637+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/anti-ramsey-disjoint-copies-investigation/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (15 files)",
+        "timestamp": "2026-10-17T22:33:22.040637+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
   },
   "autod": {
     "description": "Autonomous repository synthesizer that uses frontier LLMs to invent, develop, verify, and publish a production-ready open-source project every 48 hours.",
@@ -427,11 +436,20 @@
   "bootstrap-percolation-Qd-r4": {
     "description": "Exact minimum percolating sets in Q_d under 4-neighbour bootstrap percolation: lower bound, constructions, and verified small cases",
     "domain": "general_python",
-    "improvements_count": 0,
+    "improvements_count": 1,
     "language": "Python",
-    "last_improved_at": null,
-    "pr_history": [],
-    "stages_completed": []
+    "last_improved_at": "2026-10-17T22:30:24.332650+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/bootstrap-percolation-Qd-r4/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (7 files)",
+        "timestamp": "2026-10-17T22:30:24.332650+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
   },
   "bounty-math-solver": {
     "domain": "general_python",
@@ -768,6 +786,15 @@
     "pr_history": [],
     "stages_completed": []
   },
+  "kout-local-structure": {
+    "description": "Exact expected subgraph counts in the random k-out graph: closed forms, a matched-density ER contrast, and an orientation invariant",
+    "domain": "systems_compiler",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
+  },
   "mathrepl": {
     "description": "",
     "domain": "general_python",
@@ -875,6 +902,15 @@
     "stages_completed": [
       "hygiene"
     ]
+  },
+  "sharp-cheeger-buser-certification": {
+    "description": "Exact characterisation and certification of the sharp two-sided Cheeger-Buser bound for finite weighted graphs: proofs, exact-arithmetic sharpness family, and exhaustive verification",
+    "domain": "physics_simulation_crypto",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
   },
   "sharp-two-point-concentration-bound": {
     "description": "Sharp two-point MGF concentration bound: an explicit improvement over Hoeffding's inequality with reproducible numerical verification. Incremental refinement of Hoeffding (1963).",
