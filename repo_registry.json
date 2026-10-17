@@ -482,19 +482,26 @@
   "cycle-spectra-connectivity": {
     "description": "Cycle counts of k-connected graphs: a sharp minimum (min = c(K_{k+1})), decidability of the cycle-count spectrum, and the exact 3-connected spectrum up to order 9",
     "domain": "physics_simulation_crypto",
-    "improvements_count": 1,
+    "improvements_count": 2,
     "language": "Python",
-    "last_improved_at": "2026-10-06T06:40:33.308245+00:00",
+    "last_improved_at": "2026-10-17T12:19:54.413093+00:00",
     "pr_history": [
       {
         "pr_url": "https://github.com/rajveersinh-is-dev/cycle-spectra-connectivity/pull/1",
         "stage": "hygiene",
         "summary": "chore: repository modernization and quality upgrades (11 files)",
         "timestamp": "2026-10-06T06:40:33.308245+00:00"
+      },
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/cycle-spectra-connectivity/pull/2",
+        "stage": "tests",
+        "summary": "test: add verified unit test suite for cycle-spectra-connectivity (1 files)",
+        "timestamp": "2026-10-17T12:19:54.413093+00:00"
       }
     ],
     "stages_completed": [
-      "hygiene"
+      "hygiene",
+      "tests"
     ]
   },
   "dev-toolkit": {
