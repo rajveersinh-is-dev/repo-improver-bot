@@ -347,6 +347,15 @@
       "tests"
     ]
   },
+  "anti-ramsey-disjoint-copies-investigation": {
+    "description": "Autonomous investigation of Gorgol-Gorlich Conjecture 3.2 (anti-Ramsey numbers for disjoint copies): proofs, exact CP-SAT experiments, hostile audits. Falsified small-m regime; eventual-exactness threshold improved 69 -> 29 (pending audit).",
+    "domain": "general_python",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
+  },
   "autod": {
     "description": "Autonomous repository synthesizer that uses frontier LLMs to invent, develop, verify, and publish a production-ready open-source project every 48 hours.",
     "domain": "general_python",
@@ -380,7 +389,7 @@
     "stages_completed": []
   },
   "binomial-coprime-105": {
-    "description": "",
+    "description": null,
     "domain": "general_python",
     "improvements_count": 1,
     "language": "Python",
@@ -414,6 +423,15 @@
     "stages_completed": [
       "hygiene"
     ]
+  },
+  "bootstrap-percolation-Qd-r4": {
+    "description": "Exact minimum percolating sets in Q_d under 4-neighbour bootstrap percolation: lower bound, constructions, and verified small cases",
+    "domain": "general_python",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
   },
   "bounty-math-solver": {
     "domain": "general_python",
@@ -683,11 +701,20 @@
   "graham-distinct-partial-sums": {
     "description": "Graham's distinct partial sums conjecture: a width sufficient condition (rigorous partial result), with proof, paper, and exact-arithmetic verification",
     "domain": "general_python",
-    "improvements_count": 0,
+    "improvements_count": 1,
     "language": "Python",
-    "last_improved_at": null,
-    "pr_history": [],
-    "stages_completed": []
+    "last_improved_at": "2026-10-17T18:45:06.543481+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/graham-distinct-partial-sums/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (9 files)",
+        "timestamp": "2026-10-17T18:45:06.543481+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
   },
   "havn": {
     "domain": "general_python",
@@ -731,6 +758,15 @@
     "stages_completed": [
       "hygiene"
     ]
+  },
+  "kemeny-perturbation-theory": {
+    "description": "Exact Rational Perturbation Theory, Monotonicity Phase Transitions, and Fast All-Pairs Optimization for Kemeny's Constant in Complex Networks",
+    "domain": "systems_compiler",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
   },
   "mathrepl": {
     "description": "",
@@ -840,6 +876,15 @@
       "hygiene"
     ]
   },
+  "sharp-two-point-concentration-bound": {
+    "description": "Sharp two-point MGF concentration bound: an explicit improvement over Hoeffding's inequality with reproducible numerical verification. Incremental refinement of Hoeffding (1963).",
+    "domain": "general_python",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
+  },
   "terrain-erosion-engine": {
     "description": "GPU-accelerated procedural terrain generator simulating hydraulic and thermal erosion in the browser with WebGPU compute shaders and Three.js.",
     "domain": "physics_simulation_crypto",
@@ -875,6 +920,15 @@
     "stages_completed": [
       "hygiene"
     ]
+  },
+  "total-domination-4xn-grids": {
+    "description": "Exact total domination number of 4 x n grid graphs: formula, DP, CP-SAT verification, and manuscript",
+    "domain": "physics_simulation_crypto",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
   },
   "triple-cover-convex-polygon": {
     "description": "The triple-covering number of a convex n-gon: a gap-weight certificate lower bound for all n, exact values (certified) for n<=14, and a solved boundary-edge sub-problem",
@@ -915,11 +969,20 @@
   "union-closed-sets-conjecture": {
     "description": "Research on Frankl's Union-Closed Sets Conjecture: definitions, known results, proof attempts, and computational verification.",
     "domain": "general_python",
-    "improvements_count": 0,
+    "improvements_count": 1,
     "language": "Python",
-    "last_improved_at": null,
-    "pr_history": [],
-    "stages_completed": []
+    "last_improved_at": "2026-10-17T18:40:39.121641+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/union-closed-sets-conjecture/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (10 files)",
+        "timestamp": "2026-10-17T18:40:39.121641+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
   },
   "unit-distances-in-convex-position": {
     "description": "Rigorous structural investigation of the Erdos-Moser problem: unit distances among vertices of a convex polygon",
