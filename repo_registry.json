@@ -379,6 +379,24 @@
     "pr_history": [],
     "stages_completed": []
   },
+  "binomial-coprime-105": {
+    "description": "",
+    "domain": "general_python",
+    "improvements_count": 1,
+    "language": "Python",
+    "last_improved_at": "2026-10-17T15:52:15.053643+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/binomial-coprime-105/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (4 files)",
+        "timestamp": "2026-10-17T15:52:15.053643+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
+  },
   "bollobas-leader-subsequence-sums": {
     "description": "Investigation of Bollobas-Leader conjecture on few subsequence sums in Z_n x Z_n; proves t=0 case",
     "domain": "general_python",
@@ -502,6 +520,24 @@
     "stages_completed": [
       "hygiene",
       "tests"
+    ]
+  },
+  "degree-sensitivity-boolean": {
+    "description": "FrontierMath degree-sensitivity-boolean: exact reductions, Farkas kills, machine-verified (10,4) refutation, (14,5) obstruction analysis, and honest computational frontier.",
+    "domain": "physics_simulation_crypto",
+    "improvements_count": 1,
+    "language": "Python",
+    "last_improved_at": "2026-10-17T15:50:10.510433+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/degree-sensitivity-boolean/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (14 files)",
+        "timestamp": "2026-10-17T15:50:10.510433+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
     ]
   },
   "dev-toolkit": {
@@ -643,6 +679,15 @@
     "stages_completed": [
       "hygiene"
     ]
+  },
+  "graham-distinct-partial-sums": {
+    "description": "Graham's distinct partial sums conjecture: a width sufficient condition (rigorous partial result), with proof, paper, and exact-arithmetic verification",
+    "domain": "general_python",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
   },
   "havn": {
     "domain": "general_python",
@@ -866,6 +911,15 @@
     "stages_completed": [
       "hygiene"
     ]
+  },
+  "union-closed-sets-conjecture": {
+    "description": "Research on Frankl's Union-Closed Sets Conjecture: definitions, known results, proof attempts, and computational verification.",
+    "domain": "general_python",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
   },
   "unit-distances-in-convex-position": {
     "description": "Rigorous structural investigation of the Erdos-Moser problem: unit distances among vertices of a convex polygon",
