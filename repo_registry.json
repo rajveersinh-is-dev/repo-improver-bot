@@ -322,6 +322,15 @@
       "hygiene"
     ]
   },
+  "adhp-cspp": {
+    "description": "Adaptive Dual Hull Pruning (ADHP): Exact, high-performance algorithm for the Weight-Constrained Shortest Path Problem",
+    "domain": "general_python",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
+  },
   "adic-diversity": {
     "description": null,
     "domain": "general_python",
@@ -418,11 +427,20 @@
   "bishops-graph-metric-dimension": {
     "description": "Exact metric dimension of bishop colour components (diamond rook reformulation, ILP computation, closed-form conjectures) \u2014 code, data, manuscript",
     "domain": "physics_simulation_crypto",
-    "improvements_count": 0,
+    "improvements_count": 1,
     "language": "Python",
-    "last_improved_at": null,
-    "pr_history": [],
-    "stages_completed": []
+    "last_improved_at": "2026-10-18T17:29:36.805374+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/bishops-graph-metric-dimension/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (13 files)",
+        "timestamp": "2026-10-18T17:29:36.805374+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
   },
   "bollobas-leader-subsequence-sums": {
     "description": "Investigation of Bollobas-Leader conjecture on few subsequence sums in Z_n x Z_n; proves t=0 case",
@@ -468,13 +486,22 @@
     "stages_completed": []
   },
   "ccme-caching-oup": {
-    "description": null,
+    "description": "",
     "domain": "general_python",
-    "improvements_count": 0,
+    "improvements_count": 1,
     "language": "Python",
-    "last_improved_at": null,
-    "pr_history": [],
-    "stages_completed": []
+    "last_improved_at": "2026-10-18T17:33:07.951245+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/ccme-caching-oup/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (7 files)",
+        "timestamp": "2026-10-18T17:33:07.951245+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
   },
   "certified-dose": {
     "description": "Python package, CLI, and dashboard that wrap automated process-control dosing in a formal reachability-analysis safety layer for worst-case compliance.",
