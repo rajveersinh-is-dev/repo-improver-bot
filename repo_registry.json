@@ -349,7 +349,7 @@
   },
   "anti-ramsey-disjoint-copies-investigation": {
     "description": "Autonomous investigation of Gorgol-Gorlich Conjecture 3.2 (anti-Ramsey numbers for disjoint copies): proofs, exact CP-SAT experiments, hostile audits. Falsified small-m regime; eventual-exactness threshold improved 69 -> 29 (pending audit).",
-    "domain": "physics_simulation_crypto",
+    "domain": "general_python",
     "improvements_count": 1,
     "language": "Python",
     "last_improved_at": "2026-10-17T22:33:22.040637+00:00",
@@ -780,11 +780,20 @@
   "kemeny-perturbation-theory": {
     "description": "Exact Rational Perturbation Theory, Monotonicity Phase Transitions, and Fast All-Pairs Optimization for Kemeny's Constant in Complex Networks",
     "domain": "systems_compiler",
-    "improvements_count": 0,
+    "improvements_count": 1,
     "language": "Python",
-    "last_improved_at": null,
-    "pr_history": [],
-    "stages_completed": []
+    "last_improved_at": "2026-10-18T00:14:07.154405+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/kemeny-perturbation-theory/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (8 files)",
+        "timestamp": "2026-10-18T00:14:07.154405+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
   },
   "kout-local-structure": {
     "description": "Exact expected subgraph counts in the random k-out graph: closed forms, a matched-density ER contrast, and an orientation invariant",
@@ -960,11 +969,20 @@
   "total-domination-4xn-grids": {
     "description": "Exact total domination number of 4 x n grid graphs: formula, DP, CP-SAT verification, and manuscript",
     "domain": "physics_simulation_crypto",
-    "improvements_count": 0,
+    "improvements_count": 1,
     "language": "Python",
-    "last_improved_at": null,
-    "pr_history": [],
-    "stages_completed": []
+    "last_improved_at": "2026-10-18T00:11:24.700504+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/total-domination-4xn-grids/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (6 files)",
+        "timestamp": "2026-10-18T00:11:24.700504+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
   },
   "triple-cover-convex-polygon": {
     "description": "The triple-covering number of a convex n-gon: a gap-weight certificate lower bound for all n, exact values (certified) for n<=14, and a solved boundary-edge sub-problem",
