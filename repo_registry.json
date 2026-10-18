@@ -798,11 +798,20 @@
   "kout-local-structure": {
     "description": "Exact expected subgraph counts in the random k-out graph: closed forms, a matched-density ER contrast, and an orientation invariant",
     "domain": "systems_compiler",
-    "improvements_count": 0,
+    "improvements_count": 1,
     "language": "Python",
-    "last_improved_at": null,
-    "pr_history": [],
-    "stages_completed": []
+    "last_improved_at": "2026-10-18T05:01:11.676685+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/kout-local-structure/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (6 files)",
+        "timestamp": "2026-10-18T05:01:11.676685+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
   },
   "mathrepl": {
     "description": "",
@@ -924,11 +933,20 @@
   "sharp-two-point-concentration-bound": {
     "description": "Sharp two-point MGF concentration bound: an explicit improvement over Hoeffding's inequality with reproducible numerical verification. Incremental refinement of Hoeffding (1963).",
     "domain": "general_python",
-    "improvements_count": 0,
+    "improvements_count": 1,
     "language": "Python",
-    "last_improved_at": null,
-    "pr_history": [],
-    "stages_completed": []
+    "last_improved_at": "2026-10-18T04:55:27.476082+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/sharp-two-point-concentration-bound/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (8 files)",
+        "timestamp": "2026-10-18T04:55:27.476082+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
   },
   "terrain-erosion-engine": {
     "description": "GPU-accelerated procedural terrain generator simulating hydraulic and thermal erosion in the browser with WebGPU compute shaders and Three.js.",
@@ -1055,5 +1073,14 @@
     "stages_completed": [
       "hygiene"
     ]
+  },
+  "verified-iterative-root-finding": {
+    "description": "Fourth-order iterative method for scalar nonlinear equations: code, tests, benchmarks, and manuscript",
+    "domain": "general_python",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
   }
 }
