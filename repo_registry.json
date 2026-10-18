@@ -325,11 +325,20 @@
   "adhp-cspp": {
     "description": "Adaptive Dual Hull Pruning (ADHP): Exact, high-performance algorithm for the Weight-Constrained Shortest Path Problem",
     "domain": "general_python",
-    "improvements_count": 0,
+    "improvements_count": 1,
     "language": "Python",
-    "last_improved_at": null,
-    "pr_history": [],
-    "stages_completed": []
+    "last_improved_at": "2026-10-18T21:04:32.819990+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/adhp-cspp/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (6 files)",
+        "timestamp": "2026-10-18T21:04:32.819990+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
   },
   "adic-diversity": {
     "description": null,
@@ -486,7 +495,7 @@
     "stages_completed": []
   },
   "ccme-caching-oup": {
-    "description": "",
+    "description": null,
     "domain": "general_python",
     "improvements_count": 1,
     "language": "Python",
@@ -762,13 +771,22 @@
     ]
   },
   "gdte-removable-knapsack-oup": {
-    "description": null,
+    "description": "",
     "domain": "general_python",
-    "improvements_count": 0,
+    "improvements_count": 1,
     "language": "Python",
-    "last_improved_at": null,
-    "pr_history": [],
-    "stages_completed": []
+    "last_improved_at": "2026-10-18T21:02:56.405406+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/gdte-removable-knapsack-oup/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (10 files)",
+        "timestamp": "2026-10-18T21:02:56.405406+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
   },
   "graham-distinct-partial-sums": {
     "description": "Graham's distinct partial sums conjecture: a width sufficient condition (rigorous partial result), with proof, paper, and exact-arithmetic verification",
@@ -974,6 +992,15 @@
     "stages_completed": [
       "hygiene"
     ]
+  },
+  "sare": {
+    "description": null,
+    "domain": "general_python",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
   },
   "sharp-cheeger-buser-certification": {
     "description": "Exact characterisation and certification of the sharp two-sided Cheeger-Buser bound for finite weighted graphs: proofs, exact-arithmetic sharpness family, and exhaustive verification",
