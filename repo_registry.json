@@ -415,6 +415,15 @@
       "hygiene"
     ]
   },
+  "bishops-graph-metric-dimension": {
+    "description": "Exact metric dimension of bishop colour components (diamond rook reformulation, ILP computation, closed-form conjectures) \u2014 code, data, manuscript",
+    "domain": "physics_simulation_crypto",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
+  },
   "bollobas-leader-subsequence-sums": {
     "description": "Investigation of Bollobas-Leader conjecture on few subsequence sums in Z_n x Z_n; proves t=0 case",
     "domain": "general_python",
@@ -454,6 +463,15 @@
   "bounty-math-solver": {
     "domain": "general_python",
     "improvements_count": 0,
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
+  },
+  "ccme-caching-oup": {
+    "description": null,
+    "domain": "general_python",
+    "improvements_count": 0,
+    "language": "Python",
     "last_improved_at": null,
     "pr_history": [],
     "stages_completed": []
@@ -716,6 +734,15 @@
       "hygiene"
     ]
   },
+  "gdte-removable-knapsack-oup": {
+    "description": null,
+    "domain": "general_python",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
+  },
   "graham-distinct-partial-sums": {
     "description": "Graham's distinct partial sums conjecture: a width sufficient condition (rigorous partial result), with proof, paper, and exact-arithmetic verification",
     "domain": "general_python",
@@ -924,11 +951,20 @@
   "sharp-cheeger-buser-certification": {
     "description": "Exact characterisation and certification of the sharp two-sided Cheeger-Buser bound for finite weighted graphs: proofs, exact-arithmetic sharpness family, and exhaustive verification",
     "domain": "physics_simulation_crypto",
-    "improvements_count": 0,
+    "improvements_count": 1,
     "language": "Python",
-    "last_improved_at": null,
-    "pr_history": [],
-    "stages_completed": []
+    "last_improved_at": "2026-10-18T11:30:58.497922+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/sharp-cheeger-buser-certification/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (13 files)",
+        "timestamp": "2026-10-18T11:30:58.497922+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
   },
   "sharp-two-point-concentration-bound": {
     "description": "Sharp two-point MGF concentration bound: an explicit improvement over Hoeffding's inequality with reproducible numerical verification. Incremental refinement of Hoeffding (1963).",
@@ -1077,10 +1113,19 @@
   "verified-iterative-root-finding": {
     "description": "Fourth-order iterative method for scalar nonlinear equations: code, tests, benchmarks, and manuscript",
     "domain": "general_python",
-    "improvements_count": 0,
+    "improvements_count": 1,
     "language": "Python",
-    "last_improved_at": null,
-    "pr_history": [],
-    "stages_completed": []
+    "last_improved_at": "2026-10-18T11:31:29.868994+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/verified-iterative-root-finding/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (6 files)",
+        "timestamp": "2026-10-18T11:31:29.868994+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
   }
 }
