@@ -994,8 +994,8 @@
     ]
   },
   "sare": {
-    "description": "",
-    "domain": "physics_simulation_crypto",
+    "description": null,
+    "domain": "general_python",
     "improvements_count": 1,
     "language": "Python",
     "last_improved_at": "2026-10-19T00:26:00.421602+00:00",
