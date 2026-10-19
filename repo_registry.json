@@ -771,7 +771,7 @@
     ]
   },
   "gdte-removable-knapsack-oup": {
-    "description": "",
+    "description": null,
     "domain": "general_python",
     "improvements_count": 1,
     "language": "Python",
@@ -994,13 +994,22 @@
     ]
   },
   "sare": {
-    "description": null,
-    "domain": "general_python",
-    "improvements_count": 0,
+    "description": "",
+    "domain": "physics_simulation_crypto",
+    "improvements_count": 1,
     "language": "Python",
-    "last_improved_at": null,
-    "pr_history": [],
-    "stages_completed": []
+    "last_improved_at": "2026-10-19T00:26:00.421602+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/sare/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (5 files)",
+        "timestamp": "2026-10-19T00:26:00.421602+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
   },
   "sharp-cheeger-buser-certification": {
     "description": "Exact characterisation and certification of the sharp two-sided Cheeger-Buser bound for finite weighted graphs: proofs, exact-arithmetic sharpness family, and exhaustive verification",
