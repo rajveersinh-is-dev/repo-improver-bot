@@ -471,7 +471,7 @@
   },
   "bollobas-leader-subsequence-sums": {
     "description": "Investigation of Bollobas-Leader conjecture on few subsequence sums in Z_n x Z_n; proves t=0 case",
-    "domain": "systems_compiler",
+    "domain": "general_python",
     "improvements_count": 2,
     "language": "Python",
     "last_improved_at": "2026-10-20T17:26:30.286452+00:00",
