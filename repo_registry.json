@@ -1065,6 +1065,24 @@
       "hygiene"
     ]
   },
+  "tap-redirects": {
+    "description": "",
+    "domain": "general_python",
+    "improvements_count": 1,
+    "language": "Python",
+    "last_improved_at": "2026-10-20T11:57:00.153205+00:00",
+    "pr_history": [
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/tap-redirects/pull/1",
+        "stage": "hygiene",
+        "summary": "chore: repository modernization and quality upgrades (3 files)",
+        "timestamp": "2026-10-20T11:57:00.153205+00:00"
+      }
+    ],
+    "stages_completed": [
+      "hygiene"
+    ]
+  },
   "terrain-erosion-engine": {
     "description": "GPU-accelerated procedural terrain generator simulating hydraulic and thermal erosion in the browser with WebGPU compute shaders and Three.js.",
     "domain": "physics_simulation_crypto",
