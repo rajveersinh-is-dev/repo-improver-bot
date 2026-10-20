@@ -471,20 +471,27 @@
   },
   "bollobas-leader-subsequence-sums": {
     "description": "Investigation of Bollobas-Leader conjecture on few subsequence sums in Z_n x Z_n; proves t=0 case",
-    "domain": "general_python",
-    "improvements_count": 1,
+    "domain": "systems_compiler",
+    "improvements_count": 2,
     "language": "Python",
-    "last_improved_at": "2026-10-13T16:14:59.607044+00:00",
+    "last_improved_at": "2026-10-20T17:26:30.286452+00:00",
     "pr_history": [
       {
         "pr_url": "https://github.com/rajveersinh-is-dev/bollobas-leader-subsequence-sums/pull/1",
         "stage": "hygiene",
         "summary": "chore: repository modernization and quality upgrades (5 files)",
         "timestamp": "2026-10-13T16:14:59.607044+00:00"
+      },
+      {
+        "pr_url": "https://github.com/rajveersinh-is-dev/bollobas-leader-subsequence-sums/pull/2",
+        "stage": "tests",
+        "summary": "test: add verified unit test suite for bollobas-leader-subsequence-sums (1 files)",
+        "timestamp": "2026-10-20T17:26:30.286452+00:00"
       }
     ],
     "stages_completed": [
-      "hygiene"
+      "hygiene",
+      "tests"
     ]
   },
   "bootstrap-percolation-Qd-r4": {
@@ -1066,7 +1073,7 @@
     ]
   },
   "tap-redirects": {
-    "description": "",
+    "description": null,
     "domain": "general_python",
     "improvements_count": 1,
     "language": "Python",
